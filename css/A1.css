@@ -15,7 +15,7 @@
     display: flex;
     list-style-type: none;
 }
-.class
+.class_element
 {
     margin-left: 50px;
   margin-right: auto;
@@ -93,30 +93,31 @@
 
 }
 
-.c1
+.content1
 {
     display: flex;
 }
-.c3
+.content3
 {
+    padding-top: 100px;
     display: flex;
 }
-.c4
+.content4
 {
     margin-left: 70px;
     text-align: left;
     padding-top: 175px;
 }
-.c5
+.content5
 {
 
     margin-right: 70px;
     text-align: left;
-    padding-top: 175px;
+    padding-top: 105px;
 }
-.c6
+.content6
 {
-    margin-top:100px
+    margin-top:10px
 }
 
 .footer ul
