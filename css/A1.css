@@ -1,0 +1,171 @@
+.header
+{
+    
+    display: flex;
+    width: 1680px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: white;
+}
+
+.features ul
+{
+    
+    display: flex;
+    list-style-type: none;
+}
+.class_element
+{
+    margin-left: 50px;
+  margin-right: auto;
+  width: 50%;
+}
+
+.f1
+{
+    padding-left: 40px;
+    color: #18A0FB;
+}
+
+.f2
+{
+    padding-left: 40px;
+    color: #18A0FB;
+}
+
+.f3
+{
+    padding-left: 40px;
+    color: #18A0FB;
+}
+
+.f4
+{
+    padding-left: 40px;
+    color: #18A0FB;
+}
+
+.button 
+{
+    padding-left: 800px;
+    
+}
+.image
+{
+    margin-top: 15px;
+}
+
+.button1
+{
+    margin-top: 20px;
+    box-sizing: border-box;
+    color: #18A0FB;
+    background: #FFFFFF;
+    /* Actionable Item */
+     border: 1px solid #18A0FB;
+    border-radius: 0px;
+}
+.button2
+{
+    margin-top: 20px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    background: #18A0FB;
+    /* Actionable Item */
+    border: 1px solid #18A0FB;
+    border-radius: 0px; 
+}
+.image2 {
+    background-image: url("../Images/img2.jpg");
+    height: 700px;
+    width:1560px;
+}
+.image2 h1{
+    text-align: center;
+    padding-top: 500px;
+}
+.button3
+{
+    background: #FFFFFF;
+    color: #18A0FB;
+    border: 1px solid #18A0FB;
+
+}
+
+.content1
+{
+    display: flex;
+}
+.content3
+{
+    padding-top: 100px;
+    display: flex;
+}
+.content4
+{
+    margin-left: 70px;
+    text-align: left;
+    padding-top: 175px;
+}
+.content5
+{
+
+    margin-right: 70px;
+    text-align: left;
+    padding-top: 105px;
+}
+.content6
+{
+    margin-top:10px
+}
+
+.footer ul
+{
+    padding-top: 50px;
+  
+    display: flex;
+    list-style-type: none;
+}
+
+.fo1
+{
+    padding-left: 120px;
+    color: black;
+}
+
+.fo2
+{
+    padding-left: 120px;
+    color: black;
+}
+
+.fo3
+{
+    padding-left: 120px;
+    color: black;
+}
+
+.fo4
+{
+    padding-left: 120px;
+    color: black;
+}
+.fo5
+{
+    padding-left: 120px;
+    color: black;
+
+}
+.fo6
+{
+    padding-left: 120px;
+    color: black;
+
+}
+.fo7
+{
+    padding-left: 120px;
+    color: black;
+
+}
